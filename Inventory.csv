@@ -1,0 +1,13 @@
+product_id,sku,unit,qty,manufacturer_name,manufacturer_ref_num,shipping,shipping_cost
+124,1234-1234-1234,szt.,10,Modernizacja,12345,99.00,159.24,
+628468,0000-00000-81607,szt.,0,,,"Na zamówienie",
+1,0001-00000-23602,szt.,0,,,"24h",12.01
+2,0000-000FV-YY001,szt.,0,,,"Na zamówienie",
+354454,0000-000FV-YY002,szt.,0,,,"Na zamówienie",
+200370,0000-000FV-YY003,szt.,0,TELEFONIKA,"Be9Tele  Południe 09","Na zamówienie",159.35
+123725,0000-000LV-LO001,szt.,0,,,"Na zamówienie",
+493214,0000-000LV-LS222,szt.,0,,,"Na zamówienie",
+5,0000-003AA-YY001,szt.,0,,,"Na zamówienie",
+6,0000-006AA-YY002,szt.,0,,,"Na zamówienie",
+7,0000-006AA-YY003,szt.,0,,,"Na zamówienie",
+235144,0000-006AA-YY004,szt.,0,TELEFONIKA,"Be8TIM  08","Na zamówienie",
